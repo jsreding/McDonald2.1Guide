@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1526869979 "mcdonald.tex" "mcdonald.pdf" "mcdonald" 1526869980
+["pdflatex"] 1526876271 "mcdonald.tex" "mcdonald.pdf" "mcdonald" 1526876272
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1520157211 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1520157216 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1520157220 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -55,12 +55,12 @@
   "LightField_filter.PNG" 1526868676 248768 33556f43c10dd0165261a47ba8e6b1c7 ""
   "console.jpg" 1526868676 643910 0a608e36883f50222020cf206c61b0bf ""
   "darkslide.jpg" 1526868676 456219 45d59e7f3ecb1c89a5f5148322bc2cd3 ""
-  "mcdonald.aux" 1526869980 1856 69d2dabb10c2b1b03cc5730acf135f44 ""
-  "mcdonald.tex" 1526869979 26211 894b2136aa33434602b5828051a3960a ""
+  "mcdonald.aux" 1526876272 1856 69d2dabb10c2b1b03cc5730acf135f44 ""
+  "mcdonald.tex" 1526876171 26343 efc9bf475eac9a25ed628b10e1bd3122 ""
   "paddle.jpg" 1526868676 642598 144970d7430944025804b386bea4eca0 ""
   "pointing.png" 1526868676 537609 0c0dc1cd6aa88004108a7e982ff73693 ""
   "power.jpg" 1526868676 313251 6ccd2e78b82a63e6f2e9e74159dba3f1 ""
   (generated)
+  "mcdonald.pdf"
   "mcdonald.log"
   "mcdonald.aux"
-  "mcdonald.pdf"
